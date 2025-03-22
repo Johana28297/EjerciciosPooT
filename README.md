@@ -1,1 +1,1 @@
-# EjerciciosPooT
+# Prototipo de Proyecto POO
